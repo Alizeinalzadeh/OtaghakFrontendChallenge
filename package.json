@@ -11,6 +11,7 @@
 	},
 	"dependencies": {
 		"axios": "^1.7.3",
+		"cliui": "^8.0.1",
 		"next": "14.1.4",
 		"react": "^18",
 		"react-dom": "^18",
@@ -33,11 +34,12 @@
 		"eslint-config-next": "^14.2.5",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-unused-imports": "^4.0.1",
-		"postcss": "^8.4.40",
-		"tailwindcss": "^3.3.0",
-		"typescript": "^5",
 		"jest": "^29.7.0",
 		"jest-dom": "^4.0.0",
-		"jest-environment-jsdom": "^29.7.0"
+		"jest-environment-jsdom": "^29.7.0",
+		"postcss": "^8.4.40",
+		"tailwindcss": "^3.3.0",
+		"ts-node": "^10.9.2",
+		"typescript": "^5"
 	}
 }
